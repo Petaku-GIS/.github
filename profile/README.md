@@ -5,7 +5,6 @@
 ### Team :
 - [@alfiankan](https://github.com/alfiankan)
 - [@alfajrimutawadhi](https://github.com/alfajrimutawadhi)
-- [@dzakifadh](https://github.com/dzakifadh)
 - [@ramazuldi](https://github.com/ramazuldi)
 
 
